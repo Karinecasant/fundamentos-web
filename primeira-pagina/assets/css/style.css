@@ -1,0 +1,24 @@
+/*Estilos da página index.html*/
+.center {
+    text-align: center;
+    align-self:inherit;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    align-self:auto;
+}
+
+.flex-container{
+    display: flex;
+    height: 600px;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: flex-end;
+}
+
+/*Estilos da página referencias.html*/
+
